@@ -1,15 +1,15 @@
-# Columbia-MA-Math-Camp-2019
-This repository hosts course material for Math Camp 2019 for the MA program at Columbia. Lecture notes will be uploaded in due course. A more detailed syllabus has been uploaded above and can also be accessed at this link : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019/blob/master/Syllabus.pdf
+# Columbia-MA-Math-Camp-2020
+This repository hosts course material for Math Camp 2019 for the MA program at Columbia. Lecture notes will be uploaded in due course. A more detailed syllabus has been uploaded above and can also be accessed at this link : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020/blob/master/Syllabus.pdf
 
 ## Course Information
 
 - Instructor : Vinayak Iyer
 - Email : vi2137@columbia.edu
-- Dates : Monday, August 12th - Thursday, August 29th
-- Place and Time : 9:30 AM - 12 PM in Hamilton 717
-- Office Hours : Thursday 12 - 1 in IAB 1006A
-- Website : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019
-- Exam : MATH CAMP EXAM ON WEDNESDAY FROM 11:40 - 12:55
+- Dates : Monday, August 17th - Thursday, September 3rd
+- Place and Time : 9:30 AM - 12 PM EST on Zoom (link will be shared)
+- Office Hours : Thursday 12 - 1 on Zoom (link will be shared)
+- Website : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020
+- Exam : TBA
 
 ## Overview
 This course provides an overview of the mathematical concepts needed for the first year Master's sequence in
@@ -23,9 +23,8 @@ largely be self-contained. Students are expected to have taken courses in single
 familiarity with concepts in probability and linear algebra will be assumed, although we will spend some time
 reviewing these topics.
 
-Classes will meet every weekday from 9:30AM - 12PM, running from Monday, August 12th through Thursday,
-August 29th. The course room is Hamilton 717. 
-
+Classes will meet every weekday from 9:30AM - 12PM EST, running from Monday, August 17th through Thursday,
+September 3rd.
 
 ## Textbooks
 The material from this course will primarily pull from two reference texts:
