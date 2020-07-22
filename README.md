@@ -1,5 +1,5 @@
 # Columbia-MA-Math-Camp-2020
-This repository hosts course material for Math Camp 2019 for the MA program at Columbia. Lecture notes will be uploaded in due course. A more detailed syllabus has been uploaded above and can also be accessed at this link : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020/blob/master/Syllabus.pdf
+This repository hosts course material for Math Camp 2020 for the MA program at Columbia. Lecture notes have been uploaded. A more detailed syllabus has been uploaded above and can also be accessed at this link : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020/blob/master/Syllabus.pdf
 
 ## Course Information
 
