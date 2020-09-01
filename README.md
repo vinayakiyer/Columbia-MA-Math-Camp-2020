@@ -9,7 +9,9 @@ This repository hosts course material for Math Camp 2020 for the MA program at C
 - Place and Time : 9:30 AM - 12 PM EST on Zoom (link will be shared)
 - Office Hours : Thursday 12 - 1 on Zoom (link will be shared)
 - Website : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020
-- Exam : 48 hour take home exam. Exam will be posted on Gradescope at 9 am, Saturday, September 5th. Submission on Gradescope by 9 am, Monday September 7th
+- Exam : **48 hour take home exam. 
+          **Exam will be posted on Gradescope at 9 am, Saturday, September 5th. 
+          **Submission on Gradescope by 9 am, Monday September 7th**
 
 ## Overview
 This course provides an overview of the mathematical concepts needed for the first year Master's sequence in
